@@ -10,4 +10,3 @@ python3 --version
 # Run migrations (optional, should be done post-deployment)
 python3 manage.py makemigrations
 python3 manage.py migrate
-g
